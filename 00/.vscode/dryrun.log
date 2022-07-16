@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/segfault/Desktop/cpp/00'
+make: Leaving directory '/home/segfault/Desktop/cpp/00'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
